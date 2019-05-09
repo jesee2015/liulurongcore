@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "CoreSimple.Web": {
+      "applicationUrl": "http://localhost:5000/",
+      "launchUrl": "http://localhost:5000/BillsItem",
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "launchBrowser": true
+    }
+  }
+}

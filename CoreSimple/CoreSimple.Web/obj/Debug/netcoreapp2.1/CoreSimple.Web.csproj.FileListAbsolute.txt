@@ -1,0 +1,17 @@
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\bin\Debug\netcoreapp2.1\CoreSimple.Web.deps.json
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\bin\Debug\netcoreapp2.1\CoreSimple.Web.runtimeconfig.json
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\bin\Debug\netcoreapp2.1\CoreSimple.Web.runtimeconfig.dev.json
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\bin\Debug\netcoreapp2.1\CoreSimple.Web.dll
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\bin\Debug\netcoreapp2.1\CoreSimple.Web.pdb
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\bin\Debug\netcoreapp2.1\CoreSimple.Models.dll
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\bin\Debug\netcoreapp2.1\CoreSimple.Models.pdb
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.csprojAssemblyReference.cache
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.RazorAssemblyInfo.cache
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.RazorAssemblyInfo.cs
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.AssemblyInfoInputs.cache
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.AssemblyInfo.cs
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.RazorTargetAssemblyInfo.cache
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.csproj.CopyComplete
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.dll
+D:\Projects\CSharp\CoreSimple\CoreSimple.Web\obj\Debug\netcoreapp2.1\CoreSimple.Web.pdb

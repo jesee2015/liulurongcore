@@ -1,0 +1,8 @@
+D:\Projects\CSharp\CoreSimple\CoreSimple.Models\bin\Debug\netcoreapp2.1\CoreSimple.Models.deps.json
+D:\Projects\CSharp\CoreSimple\CoreSimple.Models\bin\Debug\netcoreapp2.1\CoreSimple.Models.dll
+D:\Projects\CSharp\CoreSimple\CoreSimple.Models\bin\Debug\netcoreapp2.1\CoreSimple.Models.pdb
+D:\Projects\CSharp\CoreSimple\CoreSimple.Models\obj\Debug\netcoreapp2.1\CoreSimple.Models.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\CoreSimple\CoreSimple.Models\obj\Debug\netcoreapp2.1\CoreSimple.Models.AssemblyInfoInputs.cache
+D:\Projects\CSharp\CoreSimple\CoreSimple.Models\obj\Debug\netcoreapp2.1\CoreSimple.Models.AssemblyInfo.cs
+D:\Projects\CSharp\CoreSimple\CoreSimple.Models\obj\Debug\netcoreapp2.1\CoreSimple.Models.dll
+D:\Projects\CSharp\CoreSimple\CoreSimple.Models\obj\Debug\netcoreapp2.1\CoreSimple.Models.pdb
