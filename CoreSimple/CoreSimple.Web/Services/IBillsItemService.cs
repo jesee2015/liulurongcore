@@ -8,12 +8,10 @@ namespace CoreSimple.Web.Services
 {
     public interface IBillsItemService
     {
-        Task<IEnumerable<BillsItem>> GetBillsItemByDateAsync(DateTime dateTime);
-
-        Task<BillsItem> GetBillsItemByIdAsync(int id);
-
-        void AddAsync(BillsItem billsItem);
-        Task<int> EditAsync(BillsItem billsItem);
-        Task<int> DeleteAsync(int id);
+        IEnumerable<BillsItem> GetByDate(DateTime dateTime);
+        BillsItem GetById(int id);
+        int Add(BillsItem billsItem);
+        int Edit(BillsItem billsItem);
+        int Delete(int id);
     }
 }

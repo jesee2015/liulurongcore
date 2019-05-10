@@ -16,30 +16,34 @@ namespace CoreSimple.Web.Services
 
         public MyDbContext DbContext { get; }
 
-        public void AddAsync(BillsItem billsItem)
+        public int Add(BillsItem billsItem)
         {
-             DbContext.BillsItems.AddAsync(billsItem);
-            DbContext.SaveChangesAsync();
+            DbContext.BillsItems.Add(billsItem);
+            return DbContext.SaveChanges();
         }
 
-        public Task<int> DeleteAsync(int id)
+        public int Delete(int id)
         {
-            throw new NotImplementedException();
+            var billsItem = GetById(id);
+            DbContext.Remove(billsItem);
+            return DbContext.SaveChanges();
         }
 
-        public Task<int> EditAsync(BillsItem billsItem)
+        //todo
+        public int Edit(BillsItem billsItem)
         {
-            throw new NotImplementedException();
+            var _item = GetById(billsItem.Id);
+            return 0;
         }
 
-        public Task<IEnumerable<BillsItem>> GetBillsItemByDateAsync(DateTime dateTime)
+        public IEnumerable<BillsItem> GetByDate(DateTime dateTime)
         {
-            throw new NotImplementedException();
+            return DbContext.BillsItems.ToList();
         }
 
-        public Task<BillsItem> GetBillsItemByIdAsync(int id)
+        public BillsItem GetById(int id)
         {
-            throw new NotImplementedException();
+            return DbContext.BillsItems.FirstOrDefault(c => c.Id == id);
         }
     }
 }
